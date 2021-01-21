@@ -1,0 +1,9 @@
+*.swp
+*.pyc
+*.pyo
+*.log
+*.idea
+*.pytest_cache
+*.DS_Store
+/.ipynb_checkpoints
+/.vscode
